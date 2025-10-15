@@ -16,7 +16,7 @@ koblingen er likt som [excercise 1]([https://www.analog.com/media/en/technical-d
 
 
 flow
-[Eksportert PNG](flow_chart_full.png)
+[flow chart](flow_chart_full.png)
 
 
 
