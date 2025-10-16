@@ -12,7 +12,7 @@ Oppgaven går ut på å lese analoge data fra en TMP36 temperatursensor via ADC,
 
 NYTT
 dette bygger videre på siste Repo og implementerer bruk av en DC motor som fan ved hjelp av en LM293D H-Brigde
-koblingen er likt som [excercise 1]([https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf](https://fjnn.github.io/hvl-ele201/lectures/l7-motordrive#exercise-1-simple-dc-motor-drive-with-l293d)) bare uten knapp og potentiometer
+koblingen er likt som [excercise 1]((https://fjnn.github.io/hvl-ele201/lectures/l7-motordrive#exercise-1-simple-dc-motor-drive-with-l293d)) bare uten knapp og potentiometer
 
 
 flow
